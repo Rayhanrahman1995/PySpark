@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Big Corporation",
+    "numberOfEmployees": 10000,
+    "ceo": "Maher",
+    "rating": 3.6
+  },
+  {
+    "name": "Small Corporation",
+    "numberOfEmployees": 5000,
+    "ceo": "Wafa",
+    "rating": 3.5
+  }
+]
